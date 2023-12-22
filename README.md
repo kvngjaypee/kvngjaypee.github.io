@@ -48,6 +48,7 @@ Click on the “commit changes” button to commit your file to your repository.
 Outlook of Your Website 😎
 Woah!!!! Your website is officially live and it’s now accessible at “https://username.github.io” (You must not forget to replace “username” with your GitHub username.)
 
+<img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oI7HkGHiPcVBecaFRhtkTA.png" alt="An image of a website">
 
 Conclusion
 In conclusion, deploying your first website to GitHub Pages is a rewarding experience that demonstrates your commitment to quality and collaboration. By following the steps outlined in this article, you have successfully created a static website hosted by GitHub and connected it to your custom domain. Your hard work and dedication to best practices have paid off, and you can now share your application with the world.
